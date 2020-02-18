@@ -1,9 +1,9 @@
-# BeltConverter
+# ParticleGenerator
 
 Usage, examples and more:
 http://software.fimbinger.at
 
-Convert CAD belt models (meshed as STL-File) for the use in ThreeParticle/CAE by Becker3D.
+Generate INP-Files for generating particles in dense packing for the use in ThreeParticle/CAE by Becker3D.
 
 3rd party software see also:
 www.becker3d.com
